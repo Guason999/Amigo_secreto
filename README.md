@@ -22,8 +22,7 @@ Sorteo aleatorio: Se elige aleatoriamente un nombre de la lista y se muestra en 
 🚀 Cómo Usar
 
 Usa este repositorio:
-https://github.com/Guason999/Amigo_secreto/tree/main
-
+ https://github.com/Guason999/Amigo_secreto/blob/main/app.js
 Abre el archivo index.html en tu navegador.
 
 Escribe nombres en el campo de entrada y haz clic en "Añadir".
